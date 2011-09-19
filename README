@@ -1,0 +1,24 @@
+  author:       L. Sauer 2011 (c); lsauer.com
+  project:      GenCon
+  description:  retrieve and convert arbitrary genomic files via a HTML5  web interface
+  license:      MIT license (commercial use is ok)
+
+Please contribute if you like the project. <br>
+Fork it on github: https://github.com/lsauer/gencon
+Make sure to take advantage of the message button on github if you have feedback about any of this stuff.
+
+/*--------------------------README-------EMDAER------------------------------*/
+
+Note the repo-package is out before the end of the month
+
+== Features: ==
+  Genome data conversion of bed, gff, bigbed etc...
+  drag and drop interface
+  compression of the uploaded and converted file
+  retrieval via biomoby, NCIS,...
+
+== Project ==
+	https://github.com/lsauer/gencon
+	http://code.google.com/p/gencon/
+
+== Getting started ==
